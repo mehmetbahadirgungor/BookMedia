@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958439852817",
+    "project_id": "booksearchapp-f0e18",
+    "storage_bucket": "booksearchapp-f0e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958439852817:android:4d4997791ca1cbce131ab0",
+        "android_client_info": {
+          "package_name": "com.example.booksearchapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT3B-N0hqg2xUInkd-2RJXiAWpQl3ob_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
