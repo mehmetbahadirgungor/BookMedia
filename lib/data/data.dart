@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 Future<List> getData(String value) async {
-  String url='https://www.googleapis.com/books/v1/volumes?key=AIzaSyDo-XW-1mwHCMYweaWt_-GcX-sWG4dtC8k';
+  String url=''; //key part
 
   url += "&q=$value";
 
